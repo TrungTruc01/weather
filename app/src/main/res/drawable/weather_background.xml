@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/cloud_background"
+            android:tileMode="disabled"
+            android:gravity="center" />
+    </item>
+    <item>
+        <color android:color="#50000000" /> <!-- Hiệu ứng làm tối -->
+    </item>
+</layer-list>

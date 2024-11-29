@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thoi tiet</string>
+    <string name="temp_label">Temperature</string>
+    <string name="description_label">Weather Description</string>
+    <string name="wind_label">Wind Speed</string>
+    <string name="api_key">ba6c2ce56e4d9121d546d0fc5a538461</string>
+</resources>

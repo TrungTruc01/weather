@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757575</color>
+        <!-- Màu nền chính -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Màu icon và thời tiết -->
+    <color name="weatherSunny">#FF9800</color> <!-- Màu cam cho thời tiết nắng -->
+    <color name="weatherCloudy">#B0BEC5</color> <!-- Màu xám cho thời tiết mây -->
+    <color name="weatherRainy">#4CAF50</color> <!-- Màu xanh cho thời tiết mưa -->
+
+
+    <color name="nav_item_color">#FF6200EE</color>
+    <color name="nav_item_color_inactive">#FFBDBDBD</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
